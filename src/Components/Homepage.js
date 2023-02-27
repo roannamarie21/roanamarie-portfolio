@@ -10,67 +10,16 @@ class Homepage extends Component {
             <div className="profile-img-border">
               <img
                 className="profile-img"
-                src="images/DSC_5211-00.jpg"
-                alt="Ismail"
+                src="images/roanna.png"
+                alt="Donnna"
               />
             </div>
-            <div className="banner-text">
-              <h1>Asp .Net Full Stack Developer</h1>
+            <div className="banner-text font-2xl">
+              <h1>Roanna Marie Jugalbot!</h1>
               <hr />
               <p>
-                HTML | CSS | BOOTSTRAP | PHP | MYSQL | C# | ASP .NET CORE | SQL
-                SERVER
-              </p>
-              <div className="social-links">
-                {/* LinkedIn */}
-                <a
-                  href="http://facebook.com/ismail96.12"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
-                  <i
-                    className="fa fa-facebook-official"
-                    aria-hidden="true"
-                  ></i>{" "}
-                </a>
-                {/* LinkedIn */}
-                <a
-                  href="https://twitter.com/ismail_miah_2"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
-                  <i
-                    className="fa fa-twitter-square"
-                    aria-hidden="true"
-                  ></i>{" "}
-                </a>
-                {/* LinkedIn */}
-                <a
-                  href="https://github.com/ismaelmiah"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
-                  <i
-                    className="fa fa-github-square"
-                    aria-hidden="true"
-                  ></i>{" "}
-                </a>
-                {/* LinkedIn */}
-                <a
-                  href="https://www.linkedin.com/in/ismaelmiah/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
-                  <i
-                    className="fa fa-linkedin-square"
-                    aria-hidden="true"
-                  ></i>{" "}
-                </a>
-              </div>
+             4rth year BSCS student.
+              </p> 
             </div>
           </Cell>
         </Grid>

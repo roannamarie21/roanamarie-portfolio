@@ -1,15 +1,5 @@
 .homepage-grid {
-  background: #de6161; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #2657eb,
-    #de6161
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #2657eb,
-    #de6161
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #fff;
   text-align: center;
   position: fixed;
   width: 100%;
@@ -17,17 +7,7 @@
 }
 
 .header-color {
-  background: #de6161; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #2657eb,
-    #de6161
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #2657eb,
-    #de6161
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #2657eb, #de6161);
 }
 
 .profile-img-border {
@@ -70,29 +50,6 @@
   color: white;
   font-size: 20px;
   padding: 1em;
-}
-
-.social-links {
-  display: flex;
-  justify-content: space-between;
-  width: 50%;
-  margin: auto;
-}
-
-.social-links i {
-  color: white;
-  padding: 8px;
-  font-size: 5em;
-}
-
-.projects-grid {
-  margin: auto;
-  width: 100%;
-}
-
-.project-item {
-  float: left;
-  margin: 50px 55px 0px 50px;
 }
 
 .contact-body {
